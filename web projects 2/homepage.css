@@ -1,0 +1,49 @@
+section{
+text-align: center;
+padding: 0%;
+margin: 0%;
+}
+
+.image{
+    height: 50%;
+   
+    
+    transform: translateY(-13%);
+}
+.desc{
+    height: 180px;
+   
+    font-size: 42px;
+    font-weight: 222;
+    
+    
+   
+}
+.last{
+   display: block;
+   
+  
+   height: 90px;
+   
+    font-size: 30px;
+    font-weight:105;
+    transform: translateY(-40%);
+    
+
+}
+.desc p{
+    transform: translateY(120px);
+}
+ 
+
+  .image img{
+    border-radius: 30px;
+    opacity: 0.9;
+
+  }
+  .long{
+    text-align: center;
+    transform: translateY(-180%);
+   
+   
+  }

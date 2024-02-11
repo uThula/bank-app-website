@@ -1,0 +1,110 @@
+body{
+	background: #fff;
+	
+}
+div{
+	
+  width: 170px;
+  height: 70px;
+  border:none;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  border-radius: 20px;
+  background: gray;
+  color: #fff;
+  font-size: 17px;
+
+
+}
+.heading1{
+	margin-left:459px;
+}
+.tit{
+	width: 387px;
+	height: 40px;
+	display: flex;
+	flex-direction:column;
+	border: none;
+	text-align: left;
+	background: white;
+	color: navy;
+	
+	
+}
+.heading2{
+	margin-left:459px;
+}
+.pict{
+width: 387px;
+	height: 188px;
+	display: flex;
+	flex-direction:column;
+	border: none;
+	text-align: center;
+	background: #fff;
+	
+	
+}
+
+.group1{
+	display:flex;
+	flex-direction: row;
+	justify-content: center;
+  
+	
+}
+.group2{
+	display:flex;
+	flex-direction: row;
+	justify-content: center;
+	
+}
+.group3{
+	display:flex;
+	flex-direction: row;
+	justify-content: center;
+	
+	
+}
+img{
+	height:100%;
+	width: 100%;
+	
+	
+}
+.tit p{
+	font-size: 31px;
+	padding-bottom:50px;
+	
+	
+	
+}
+.color:hover{
+
+  background: Turquoise;
+  color: #fff;
+}
+
+	
+
+.slav:hover{
+	background:  Turquoise;
+  color: #fff;
+}
+.koke:hover{
+	background:  Turquoise;
+  color: #fff;
+}
+.bampe:hover{
+	background: Turquoise;
+  color: #fff;
+}
+.drake:hover{
+	background:Turquoise;
+  color: #fff;
+}
+.welsh:hover{
+	background:Turquoise;
+  color: #fff;
+}
